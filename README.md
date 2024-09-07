@@ -1,4 +1,4 @@
-** Embarque em uma jornada pelo multiverso cinematográfico! **
+** Embarque em uma jornada pelo multiverso cinematográfico! ** Imersão DEvGoogleGemini
 
 O que é esse projeto?
 
@@ -6,7 +6,7 @@ Prepare-se para explorar um universo infinito de filmes de ficção científica!
 
 Como funciona a navegação estelar?
 
-    Digite sua palavra-chave: Escolha uma palavra-chave que te interesse, como "viagem no tempo", "alienígenas" ou "realidade virtual".
+    Digite sua palavra-chave: Escolha uma palavra-chave que te interesse, como "alienígenas" ou "realidade virtual".
     Decole para a pesquisa: Ao clicar no botão "Pesquisar", nossa nave espacial irá varrer o multiverso cinematográfico em busca de filmes que contenham essa palavra-chave em seu título, descrição ou tags.
     Explore os resultados: Os filmes encontrados serão exibidos em uma interface intuitiva, com título, descrição e um link para você saber mais.
 
