@@ -23,6 +23,15 @@ h1 {
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
 
+/* Estiliza os parágrafos*/
+p{
+    font-size: 2.0rem; /* Tamanho da fonte */
+    color: #FFFFFF ; /* Cor do texto */
+    text-align: left; /* Alinha o texto ao centro */
+    letter-spacing: 0.4rem; /* Espaçamento entre letras */
+}
+   
+
 /* Estiliza as seções da página */
 section {
     display: flex; /* Usa Flexbox para layout */
